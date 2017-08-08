@@ -33,7 +33,7 @@ public class BodyPartFragment extends Fragment {
     public void setImageIds(List<Integer> imageIds) {
         mImageIds = imageIds;
     }
-   public void setListIndex(int index) {
+    public void setListIndex(int index) {
         mListIndex = index;
     }
 
